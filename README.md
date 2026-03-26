@@ -19,7 +19,7 @@ This is a small React app that shows a list of users. You can search, sort, and 
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app](https://buyer-foresight-xi.vercel.app
+https://buyer-foresight-xi.vercel.app
 
 ## Run locally
 
